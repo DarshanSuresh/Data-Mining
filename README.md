@@ -4,7 +4,7 @@ GitHub repository for a data mining laboratory project collection.
 
 ## Project Title: College Data Mining Lab
 
-## Overview:
+## Overview: 
 This repository is dedicated to providing college students with a comprehensive collection of data mining laboratory programs and open-source resources. Our goal is to make learning data mining concepts and techniques accessible and practical for learners of all levels.
 
 ## Data Mining Lab Programs
