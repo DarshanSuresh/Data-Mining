@@ -1,5 +1,5 @@
 # DATA MINING  
- 
+  
 GitHub repository for a data mining laboratory project collection.
 
 ## Project Title: College Data Mining Lab
