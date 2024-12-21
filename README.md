@@ -1,4 +1,4 @@
-# DATA MINING  
+# DATA MINING
   
 GitHub repository for a data mining laboratory project collection.
 
